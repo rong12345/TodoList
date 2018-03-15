@@ -45,7 +45,7 @@ export default {
       },
       deep:true
     }
-  }，
+  },
   // events:{
   //   'child-tell-me-somthing':function(message){
   //     this.childWords = message;
