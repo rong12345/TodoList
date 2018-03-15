@@ -46,6 +46,7 @@ export default {
       deep:true
     }
   },
+  //xiugai
   // events:{
   //   'child-tell-me-somthing':function(message){
   //     this.childWords = message;
